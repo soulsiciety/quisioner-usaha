@@ -17,6 +17,10 @@ The project presents an explainable buyer persona generation approach based on o
 
 ## Directory Structure
 
+<p align="center">
+<img src="https://drive.google.com/file/d/1TUnw0Bp1XgAZN4LR8bzInXodEmD0r8wC/view?usp=sharing" alt="Directory Structure">
+</p>
+
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
