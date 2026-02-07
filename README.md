@@ -53,7 +53,7 @@ Each asset is listed below with its access conditions and licensing information.
 
 ### 6. Source Code
 - **Description**: Open-source implementation of the Buyer Persona Expert System (BPES), including the rule-based inference engine, ontology integration, and persona generation logic. The system is implemented using the Laravel framework, with inference-related components located within the application layer.
-- **Location**: `app/`
+- **Location**: `source_code/`
 - **Persistent link**: https://github.com/soulsiciety/quisioner-usaha/releases/tag/v1.0-bpes-data
 - **Access**: Open access
 - **License**: MIT License (OSI-approved)
